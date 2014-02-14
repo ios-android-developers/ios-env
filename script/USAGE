@@ -1,0 +1,6 @@
+Set environment variables in command line:
+ >PROJECT_NAME=your_name DEVELOPER_NAME=name sh build_iphoneos.sh 
+
+OR
+Just write your info into build_iphoneos.sh
+
