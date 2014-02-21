@@ -1,0 +1,2 @@
+sudo rm -Rf /.Spotlight-V100/
+sudo mdutil -E /Applications/
